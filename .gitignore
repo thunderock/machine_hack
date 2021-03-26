@@ -17,3 +17,4 @@ bert*
 .DS_Store
 RFSC_audio_detection/data
 *.jovianrc
+*.csv
